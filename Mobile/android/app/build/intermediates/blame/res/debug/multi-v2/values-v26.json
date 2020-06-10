@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rafael/Área de Trabalho/Projetos/Projetos React Native/MagicTools/Mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/b6328f4dd330475d515368acef09c7cd/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}

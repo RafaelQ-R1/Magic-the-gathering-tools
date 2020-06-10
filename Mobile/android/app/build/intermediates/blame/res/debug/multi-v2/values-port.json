@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rafael/Área de Trabalho/Projetos/Projetos React Native/MagicTools/Mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/b6328f4dd330475d515368acef09c7cd/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

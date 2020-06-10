@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rafael/Área de Trabalho/Projetos/Projetos React Native/MagicTools/Mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/rafael/.gradle/caches/transforms-2/files-2.1/b6328f4dd330475d515368acef09c7cd/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
